@@ -107,7 +107,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  - angle(Y,gravityMean)                             
  - angle(Z,gravityMean)                                             
 
-### Process to Create in Tidy Data Set
+### Process to Create Tidy Data Set
 There are five requirements needed to successfully complete the Getting and Cleaning Data Project.
 
       1)      Merges the training and the test sets to create one data set.
